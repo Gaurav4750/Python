@@ -1,4 +1,4 @@
-# The number divisible
+# The prime number and divisible numbers.
 flag = False
 number = input("Enter the number: ")
 if int(number)>1:
